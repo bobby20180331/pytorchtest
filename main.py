@@ -12,6 +12,8 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Bobby,enjoy your time in this world')
-    print_hi('My New torch V2.')
+    print_hi('My New version V3.')
+    print_hi('Checkout more about Git version control: https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424')
 
+## https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
